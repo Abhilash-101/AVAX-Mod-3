@@ -2,7 +2,7 @@
 
 ---
 
-# SPO Token Contract
+# PTOK Token Contract
 
 A simple ERC-20 token contract with minting and burning functionalities, designed for use on the Ethereum blockchain.
 

@@ -23,14 +23,14 @@ To use this contract, you'll need access to the [Remix Ethereum IDE](https://rem
    - Go to the Remix IDE at [Remix IDE](https://remix.ethereum.org/).
 
 2. **Create a New File**:
-   - In the Remix IDE, create a new Solidity file (e.g., `TokenTest.sol`).
+   - In the Remix IDE, create a new Solidity file (e.g., `TokenProject.sol`).
 
 ### Executing Program
 
 1. **Compile the Contract**:
    - In the Remix IDE, select the appropriate Solidity compiler version (`^0.8.20`).
    - Click on the "Solidity Compiler" tab in the left sidebar.
-   - Click the "Compile TokenTest.sol" button to compile the contract.
+   - Click the "Compile TokenProject.sol" button to compile the contract.
 
 
 2. **Interact with the Contract**:
